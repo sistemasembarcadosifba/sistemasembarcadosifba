@@ -1,16 +1,13 @@
-## Hi there 👋
+# Sistemas Embarcados - IFBA
 
-<!--
-**sistemasembarcadosifba/sistemasembarcadosifba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Núcleo de Pesquisa em Sistemas Embarcados
 
-Here are some ideas to get you started:
+### IFBA - Campus Irecê
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bem-vindo ao repositório do **Núcleo de Pesquisa em Sistemas Embarcados** do IFBA Campus Irecê. Este projeto é dedicado à pesquisa, desenvolvimento e inovação em sistemas embarcados, abrangendo desde o desenvolvimento de hardware até a implementação de software especializado.
+
+## Coordenador
+
+**Prof. Cássio Lima**  
+Coordenador do Núcleo de Pesquisa em Sistemas Embarcados
+
